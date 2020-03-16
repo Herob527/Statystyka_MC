@@ -1,0 +1,362 @@
+{
+	 "Diamentowy kilof | Unbreaking 1": {
+		 "Maksimum": 2017,
+		 "Minimum": 1887,
+		 "Moda": [1955],
+		 "Mediana": 1963.500,
+		 "Srednia arytmetyczna": 1951.555,
+		 "Wariancja": 62458.697,
+		 "Odchylenie standardowe": 249.917
+	},
+	 "Drewniany kilof | Unbreaking 1": {
+		 "Maksimum": 88,
+		 "Minimum": 64,
+		 "Moda": [74],
+		 "Mediana": 77.000,
+		 "Srednia arytmetyczna": 75.080,
+		 "Wariancja": 1775.360,
+		 "Odchylenie standardowe": 42.135
+	},
+	 "Kamienny kilof | Unbreaking 1": {
+		 "Maksimum": 183,
+		 "Minimum": 149,
+		 "Moda": [166],
+		 "Mediana": 165.500,
+		 "Srednia arytmetyczna": 165.195,
+		 "Wariancja": 4130.698,
+		 "Odchylenie standardowe": 64.271
+	},
+	 "Zelazny kilof | Unbreaking 1": {
+		 "Maksimum": 338,
+		 "Minimum": 292,
+		 "Moda": [308],
+		 "Mediana": 320.500,
+		 "Srednia arytmetyczna": 314.415,
+		 "Wariancja": 8489.277,
+		 "Odchylenie standardowe": 92.137
+	},
+	 "Zloty kilof | Unbreaking 1": {
+		 "Maksimum": 55,
+		 "Minimum": 34,
+		 "Moda": [40],
+		 "Mediana": 44.500,
+		 "Srednia arytmetyczna": 41.420,
+		 "Wariancja": 1106.360,
+		 "Odchylenie standardowe": 33.262
+	},
+	 "Diamentowy kilof | Unbreaking 2": {
+		 "Maksimum": 2313,
+		 "Minimum": 2132,
+		 "Moda": [2248],
+		 "Mediana": 2201.500,
+		 "Srednia arytmetyczna": 2229.205,
+		 "Wariancja": 113271.298,
+		 "Odchylenie standardowe": 336.558
+	},
+	 "Drewniany kilof | Unbreaking 2": {
+		 "Maksimum": 105,
+		 "Minimum": 72,
+		 "Moda": [87],
+		 "Mediana": 86.000,
+		 "Srednia arytmetyczna": 85.915,
+		 "Wariancja": 3178.777,
+		 "Odchylenie standardowe": 56.381
+	},
+	 "Kamienny kilof | Unbreaking 2": {
+		 "Maksimum": 213,
+		 "Minimum": 169,
+		 "Moda": [186],
+		 "Mediana": 198.500,
+		 "Srednia arytmetyczna": 188.540,
+		 "Wariancja": 8883.840,
+		 "Odchylenie standardowe": 94.254
+	},
+	 "Zelazny kilof | Unbreaking 2": {
+		 "Maksimum": 394,
+		 "Minimum": 325,
+		 "Moda": [358 ,364],
+		 "Mediana": 345.000,
+		 "Srednia arytmetyczna": 358.945,
+		 "Wariancja": 16311.198,
+		 "Odchylenie standardowe": 127.715
+	},
+	 "Zloty kilof | Unbreaking 2": {
+		 "Maksimum": 64,
+		 "Minimum": 37,
+		 "Moda": [45],
+		 "Mediana": 51.500,
+		 "Srednia arytmetyczna": 47.340,
+		 "Wariancja": 2165.440,
+		 "Odchylenie standardowe": 46.534
+	},
+	 "Diamentowy kilof | Unbreaking 3": {
+		 "Maksimum": 2708,
+		 "Minimum": 2515,
+		 "Moda": [2577 ,2584 ,2610 ,2617],
+		 "Mediana": 2594.000,
+		 "Srednia arytmetyczna": 2606.550,
+		 "Wariancja": 162977.750,
+		 "Odchylenie standardowe": 403.705
+	},
+	 "Drewniany kilof | Unbreaking 3": {
+		 "Maksimum": 130,
+		 "Minimum": 82,
+		 "Moda": [93],
+		 "Mediana": 96.500,
+		 "Srednia arytmetyczna": 100.355,
+		 "Wariancja": 7493.898,
+		 "Odchylenie standardowe": 86.567
+	},
+	 "Kamienny kilof | Unbreaking 3": {
+		 "Maksimum": 266,
+		 "Minimum": 186,
+		 "Moda": [214 ,218],
+		 "Mediana": 225.000,
+		 "Srednia arytmetyczna": 219.960,
+		 "Wariancja": 14855.840,
+		 "Odchylenie standardowe": 121.885
+	},
+	 "Zelazny kilof | Unbreaking 3": {
+		 "Maksimum": 457,
+		 "Minimum": 379,
+		 "Moda": [414],
+		 "Mediana": 413.500,
+		 "Srednia arytmetyczna": 415.660,
+		 "Wariancja": 22913.440,
+		 "Odchylenie standardowe": 151.372
+	},
+	 "Zloty kilof | Unbreaking 3": {
+		 "Maksimum": 73,
+		 "Minimum": 42,
+		 "Moda": [50 ,52],
+		 "Mediana": 67.000,
+		 "Srednia arytmetyczna": 55.205,
+		 "Wariancja": 3743.298,
+		 "Odchylenie standardowe": 61.182
+	},
+	 "Diamentowy kilof | Unbreaking 4": {
+		 "Maksimum": 3282,
+		 "Minimum": 3000,
+		 "Moda": [3133 ,3152 ,3173],
+		 "Mediana": 3122.500,
+		 "Srednia arytmetyczna": 3129.220,
+		 "Wariancja": 325347.160,
+		 "Odchylenie standardowe": 570.392
+	},
+	 "Drewniany kilof | Unbreaking 4": {
+		 "Maksimum": 156,
+		 "Minimum": 90,
+		 "Moda": [112],
+		 "Mediana": 129.500,
+		 "Srednia arytmetyczna": 120.455,
+		 "Wariancja": 12452.797,
+		 "Odchylenie standardowe": 111.592
+	},
+	 "Kamienny kilof | Unbreaking 4": {
+		 "Maksimum": 323,
+		 "Minimum": 227,
+		 "Moda": [269],
+		 "Mediana": 273.000,
+		 "Srednia arytmetyczna": 264.130,
+		 "Wariancja": 25987.310,
+		 "Odchylenie standardowe": 161.206
+	},
+	 "Zelazny kilof | Unbreaking 4": {
+		 "Maksimum": 577,
+		 "Minimum": 455,
+		 "Moda": [504],
+		 "Mediana": 482.000,
+		 "Srednia arytmetyczna": 503.615,
+		 "Wariancja": 58355.677,
+		 "Odchylenie standardowe": 241.569
+	},
+	 "Zloty kilof | Unbreaking 4": {
+		 "Maksimum": 96,
+		 "Minimum": 50,
+		 "Moda": [65],
+		 "Mediana": 70.500,
+		 "Srednia arytmetyczna": 66.580,
+		 "Wariancja": 7072.360,
+		 "Odchylenie standardowe": 84.097
+	},
+	 "Diamentowy kilof | Unbreaking 5": {
+		 "Maksimum": 4212,
+		 "Minimum": 3738,
+		 "Moda": [3900 ,3979 ,3998],
+		 "Mediana": 3959.500,
+		 "Srednia arytmetyczna": 3912.085,
+		 "Wariancja": 662088.778,
+		 "Odchylenie standardowe": 813.688
+	},
+	 "Drewniany kilof | Unbreaking 5": {
+		 "Maksimum": 198,
+		 "Minimum": 118,
+		 "Moda": [133 ,149],
+		 "Mediana": 151.500,
+		 "Srednia arytmetyczna": 150.150,
+		 "Wariancja": 21072.750,
+		 "Odchylenie standardowe": 145.165
+	},
+	 "Kamienny kilof | Unbreaking 5": {
+		 "Maksimum": 384,
+		 "Minimum": 263,
+		 "Moda": [329 ,345],
+		 "Mediana": 320.500,
+		 "Srednia arytmetyczna": 331.205,
+		 "Wariancja": 47371.298,
+		 "Odchylenie standardowe": 217.649
+	},
+	 "Zelazny kilof | Unbreaking 5": {
+		 "Maksimum": 691,
+		 "Minimum": 548,
+		 "Moda": [608],
+		 "Mediana": 632.000,
+		 "Srednia arytmetyczna": 624.110,
+		 "Wariancja": 86761.790,
+		 "Odchylenie standardowe": 294.554
+	},
+	 "Zloty kilof | Unbreaking 5": {
+		 "Maksimum": 118,
+		 "Minimum": 53,
+		 "Moda": [82],
+		 "Mediana": 77.000,
+		 "Srednia arytmetyczna": 81.665,
+		 "Wariancja": 13816.277,
+		 "Odchylenie standardowe": 117.543
+	},
+	 "Diamentowy kilof | Unbreaking 6": {
+		 "Maksimum": 5531,
+		 "Minimum": 4921,
+		 "Moda": [5178],
+		 "Mediana": 5225.000,
+		 "Srednia arytmetyczna": 5215.090,
+		 "Wariancja": 1255540.190,
+		 "Odchylenie standardowe": 1120.509
+	},
+	 "Drewniany kilof | Unbreaking 6": {
+		 "Maksimum": 281,
+		 "Minimum": 151,
+		 "Moda": [198 ,199 ,216],
+		 "Mediana": 225.500,
+		 "Srednia arytmetyczna": 198.820,
+		 "Wariancja": 51303.760,
+		 "Odchylenie standardowe": 226.503
+	},
+	 "Kamienny kilof | Unbreaking 6": {
+		 "Maksimum": 562,
+		 "Minimum": 352,
+		 "Moda": [439],
+		 "Mediana": 484.500,
+		 "Srednia arytmetyczna": 441.075,
+		 "Wariancja": 97263.938,
+		 "Odchylenie standardowe": 311.872
+	},
+	 "Zelazny kilof | Unbreaking 6": {
+		 "Maksimum": 963,
+		 "Minimum": 745,
+		 "Moda": [803 ,873],
+		 "Mediana": 820.000,
+		 "Srednia arytmetyczna": 839.320,
+		 "Wariancja": 173975.760,
+		 "Odchylenie standardowe": 417.104
+	},
+	 "Zloty kilof | Unbreaking 6": {
+		 "Maksimum": 147,
+		 "Minimum": 63,
+		 "Moda": [102],
+		 "Mediana": 95.500,
+		 "Srednia arytmetyczna": 107.040,
+		 "Wariancja": 20933.840,
+		 "Odchylenie standardowe": 144.685
+	},
+	 "Diamentowy kilof | Unbreaking 7": {
+		 "Maksimum": 8322,
+		 "Minimum": 7301,
+		 "Moda": [7739],
+		 "Mediana": 7740.000,
+		 "Srednia arytmetyczna": 7809.125,
+		 "Wariancja": 2610319.938,
+		 "Odchylenie standardowe": 1615.648
+	},
+	 "Drewniany kilof | Unbreaking 7": {
+		 "Maksimum": 390,
+		 "Minimum": 222,
+		 "Moda": [321 ,325],
+		 "Mediana": 298.500,
+		 "Srednia arytmetyczna": 301.260,
+		 "Wariancja": 125642.240,
+		 "Odchylenie standardowe": 354.460
+	},
+	 "Kamienny kilof | Unbreaking 7": {
+		 "Maksimum": 776,
+		 "Minimum": 510,
+		 "Moda": [682],
+		 "Mediana": 652.000,
+		 "Srednia arytmetyczna": 656.700,
+		 "Wariancja": 244295.000,
+		 "Odchylenie standardowe": 494.262
+	},
+	 "Zelazny kilof | Unbreaking 7": {
+		 "Maksimum": 1427,
+		 "Minimum": 1078,
+		 "Moda": [1205 ,1255 ,1263 ,1285],
+		 "Mediana": 1217.500,
+		 "Srednia arytmetyczna": 1264.925,
+		 "Wariancja": 485061.937,
+		 "Odchylenie standardowe": 696.464
+	},
+	 "Zloty kilof | Unbreaking 7": {
+		 "Maksimum": 250,
+		 "Minimum": 112,
+		 "Moda": [176],
+		 "Mediana": 174.500,
+		 "Srednia arytmetyczna": 166.280,
+		 "Wariancja": 63179.160,
+		 "Odchylenie standardowe": 251.355
+	},
+	 "Diamentowy kilof | Unbreaking 8": {
+		 "Maksimum": 16745,
+		 "Minimum": 14678,
+		 "Moda": [15713],
+		 "Mediana": 15658.000,
+		 "Srednia arytmetyczna": 15656.800,
+		 "Wariancja": 13749752.000,
+		 "Odchylenie standardowe": 3708.066
+	},
+	 "Drewniany kilof | Unbreaking 8": {
+		 "Maksimum": 896,
+		 "Minimum": 422,
+		 "Moda": [560 ,617],
+		 "Mediana": 588.500,
+		 "Srednia arytmetyczna": 607.285,
+		 "Wariancja": 640534.378,
+		 "Odchylenie standardowe": 800.334
+	},
+	 "Kamienny kilof | Unbreaking 8": {
+		 "Maksimum": 1637,
+		 "Minimum": 1071,
+		 "Moda": [1368],
+		 "Mediana": 1347.000,
+		 "Srednia arytmetyczna": 1311.740,
+		 "Wariancja": 1117625.240,
+		 "Odchylenie standardowe": 1057.178
+	},
+	 "Zelazny kilof | Unbreaking 8": {
+		 "Maksimum": 2954,
+		 "Minimum": 2136,
+		 "Moda": [2550],
+		 "Mediana": 2623.000,
+		 "Srednia arytmetyczna": 2520.115,
+		 "Wariancja": 1994047.177,
+		 "Odchylenie standardowe": 1412.107
+	},
+	 "Zloty kilof | Unbreaking 8": {
+		 "Maksimum": 474,
+		 "Minimum": 224,
+		 "Moda": [321],
+		 "Mediana": 294.000,
+		 "Srednia arytmetyczna": 330.135,
+		 "Wariancja": 268353.677,
+		 "Odchylenie standardowe": 518.029
+	}
+}

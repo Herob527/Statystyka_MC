@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: "Lucida Sans Unicode";
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+header {
+    font-size: 1.4em;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+hr { 
+    border-color: red;
+}
+table, th, td {
+    color: white;
+    border: none;
+    border-collapse: collapse;
+    font-size: 1.4em;
+}
+tr:nth-child(2n) {
+    background: rgba(25,25,25,1);
+}
+tr td:nth-child(2n) {
+    text-align: right;
+}
