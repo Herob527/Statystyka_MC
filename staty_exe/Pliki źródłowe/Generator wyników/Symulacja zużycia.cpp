@@ -31,12 +31,9 @@ int main()
                 cout << folder << "\n";
                 cin.ignore();
             }
-            for (ii1 = 0; ii1 < 200; ii1++) {
+            for (ii1 = 0; ii1 < 200 && i1 != 2; ii1++) {
                 for (it = 0; kilof->getZuzycie() != 0; it++) {
                     i1 = kilof->zuzyj();
-                    if (i1 == 2) {
-                        break;
-                    }
                 };
                 plik << it << "\n";
                 kilof->odnowa();
